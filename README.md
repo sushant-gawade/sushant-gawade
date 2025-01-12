@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **web development**
+- intrested in **Blender 3D**,**Android Development**, **Hidden Tool for Trading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
