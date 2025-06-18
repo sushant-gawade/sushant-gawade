@@ -11,6 +11,24 @@
 - **Android Development**
 - **Hidden Tool for Trading**
 
+- ---
+
+## 🧰 Tech Stack
+
+**Frontend**  
+- React.js  
+- Axios  
+- React Router  
+- Tailwind CSS / Bootstrap (optional)
+
+**Backend**  
+- Node.js  
+- Express.js  
+- MongoDB  
+- Mongoose
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
