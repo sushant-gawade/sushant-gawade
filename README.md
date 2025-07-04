@@ -11,7 +11,7 @@
 - **Android Development**
 - **Hidden Tool for Trading Algo**
 
-- ---
+---
 
 ## 🧰 Tech Stack
 
@@ -28,6 +28,7 @@
 - Mongoose
 
 ---
+**Focus on Skill 🔥**
 
 <p align="left">
 </p>
