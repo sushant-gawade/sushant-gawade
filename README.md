@@ -9,7 +9,7 @@
 - intrested in
 - **Blender 3D**
 - **Android Development**
-- **Hidden Tool for Trading**
+- **Hidden Tool for Trading Algo**
 
 - ---
 
