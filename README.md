@@ -10,6 +10,12 @@
 - **Blender 3D**
 - **Android Development**
 - **Hidden Tool for Trading Algo**
+- **AI/ML Developer**
+AI
+Prompting
+ML understanding
+Django
+FastAPI
 
 ---
 
