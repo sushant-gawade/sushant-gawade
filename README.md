@@ -93,5 +93,8 @@ FastAPI
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="c" width="40" height="40" />
   </a>
+  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" alt="java" width="40" height="40" />
+  </a>
 </p>
 
