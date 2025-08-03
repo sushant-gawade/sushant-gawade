@@ -33,6 +33,9 @@ FastAPI
 - MongoDB  
 - Mongoose
 
+**IDE**
+- VS code
+
 ---
 **Focus on Skill 🔥**
 
