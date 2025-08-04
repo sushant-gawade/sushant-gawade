@@ -11,22 +11,17 @@
 -->
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **Full Stack Development**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **web development**
 ### intrested in
-- **WEBSite Design**
-- **Android Development**
-- **Hidden Tool for Trading Algo**
-- **AI/ML Developer**
-AI
-Prompting
-ML understanding
-Django
-FastAPI
-
+- **WEBSite Design & Development**
+- **Android App Development**
+- **Hidden Tool**
+- **AI/ML Development**
+- 
 ---
 
 ## 🧰 Tech Stack
