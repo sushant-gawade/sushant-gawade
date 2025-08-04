@@ -5,7 +5,7 @@
             <img src="https://skillicons.dev/icons?i=twitter"/>
         </a>
             <a href="https://www.linkedin.com/in/sushantgawade/">
-            <img src="https://skillicons.dev/icons?i=linkdin"/>
+            <img src="https://skillicons.dev/icons?i=linkedin"/>
         </a>
     </p>
 
