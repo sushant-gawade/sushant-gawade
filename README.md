@@ -11,11 +11,14 @@
 -->
 <h4 align="center">I'm a full-stack developer from India. I enjoy creating things with the Python and MERN stack. I'm now exploring with cloud computing and AI/ML.</h4>
 
-- 🔭 I’m currently working on **Full Stack Web Development**
+---
 
-- 🌱 I’m currently learning **React Native**
+- 🔭 I’m currently working on **Full-Stack Web Development Projects**
+- 🌱 Actively learning **React Native** and **Cloud Architecture (AWS/GCP)**
+- 🤖 Exploring **AI/ML** through real-world applications and personal experiments
+- 💬 Ask me about **Web Development**, **REST APIs**, or **Frontend/Backend Integration**
+- 🌍 Open to **remote and on-site opportunities** in tech-driven environments
 
-- 💬 Ask me about **web development**
 ### 🚀 Interests
 - 🌐 **Web Design & Development**
 - 📱 **Android App Development**
