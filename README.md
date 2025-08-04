@@ -37,8 +37,6 @@ FastAPI
 - VS code
 
 ---
-**Focus on Skill 🔥**
-
 <p align="left">
   
 </p>
