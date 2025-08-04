@@ -29,7 +29,7 @@ FastAPI
 ## ⌨ Other Technologies
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/sushant-gawade">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,androidstudio,vscode" />
   </a>
 </p>
