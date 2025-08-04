@@ -9,7 +9,7 @@
         </a>
     </p>
 -->
-<h3 align="center">I'm a student and full-stack developer from India. I enjoy creating things with the Python and MERN stack. I'm now exploring with cloud computing and AI/ML.</h3>
+<h4 align="center">I'm a student and full-stack developer from India. I enjoy creating things with the Python and MERN stack. I'm now exploring with cloud computing and AI/ML.</h4>
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
