@@ -26,7 +26,7 @@ FastAPI
 
 ---
 
-## 🧑‍💻 IDE
+## ⌨ IDE
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
