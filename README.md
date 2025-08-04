@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **web development**
-- intrested in
+## intrested in
 - **WEBSite Design**
 - **Android Development**
 - **Hidden Tool for Trading Algo**
