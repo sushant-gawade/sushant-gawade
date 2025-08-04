@@ -16,11 +16,11 @@
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **web development**
-### intrested in
-- **WEBSite Design & Development**
-- **Android App Development**
-- **Hidden Tool**
-- **AI/ML Development**
+### 🚀 Interests
+- 🌐 **Web Design & Development**
+- 📱 **Android App Development**
+- 🧩 **Developer Productivity Tools**
+- 🧠 **AI/ML Projects & Research**
 ---
 
 ## 🧰 Tech Stack
