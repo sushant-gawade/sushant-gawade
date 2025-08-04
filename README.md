@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Gawade</h1>
-
+<!--
 <p align="center">
 <a href="https://x.com/sushant_gd">
             <img src="https://skillicons.dev/icons?i=twitter"/>
@@ -8,7 +8,7 @@
             <img src="https://skillicons.dev/icons?i=linkedin"/>
         </a>
     </p>
-
+-->
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 - 🔭 I’m currently working on **Full Stack Development**
