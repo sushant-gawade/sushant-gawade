@@ -4,6 +4,9 @@
 <a href="https://x.com/sushant_gd">
             <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="35"/>
         </a>
+            <a href="https://x.com/sushant_gd">
+            <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="35"/>
+        </a>
     </p>
 
 <h3 align="center">A passionate Full Stack Developer from India</h3>
@@ -31,7 +34,7 @@ FastAPI
 
 <p align="center">
   <a href="https://github.com/sushant-gawade">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,androidstudio,vscode,sublime" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,github,androidstudio,vscode,sublime" />
   </a>
 </p>
 
