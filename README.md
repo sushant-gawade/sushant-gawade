@@ -19,6 +19,18 @@ FastAPI
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sushantgawade/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/sushant_gd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sushantgawade259@gmail.com) 
 
+<div align="center">
+    <h1 style="margin-bottom: 4px">Social</h1>
+    <div style="display: flex; justify-content: center; gap: 12px">
+        <a href="https://twitter.com/mukeshgurpude">
+            <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="35"/>
+        </a>
+        <a href="https://linkedin.com/in/mukeshgurpude">
+            <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="35"/>
+        </a>
+    </div>
+</div>
+
 ---
 
 ## 🧰 Tech Stack
