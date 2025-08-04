@@ -30,7 +30,7 @@ FastAPI
 
 <p align="center">
   <a href="https://github.com/sushant-gawade">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,androidstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,androidstudio,vscode" />
   </a>
 </p>
 
