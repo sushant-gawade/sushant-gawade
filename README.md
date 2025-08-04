@@ -2,10 +2,10 @@
 
 <p align="center">
 <a href="https://x.com/sushant_gd">
-            <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="35"/>
+            <img src="https://skillicons.dev/icons?i=twitter"/>
         </a>
-            <a href="https://x.com/sushant_gd">
-            <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="35"/>
+            <a href="https://www.linkedin.com/in/sushantgawade/">
+            <img src="https://skillicons.dev/icons?i=linkdin"/>
         </a>
     </p>
 
