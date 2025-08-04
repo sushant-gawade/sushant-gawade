@@ -102,6 +102,10 @@ FastAPI
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushant-gawade&theme=default" alt="GitHub Streak"/>
 </p>
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sushant-gawade&show_icons=true&theme=default" alt="GitHub Stats"/>
+</p>
 
 
 
