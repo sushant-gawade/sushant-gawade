@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sushant Gawade</h1>
+<!--
 <p align="center">
 <a href="https://twitter.com/mukeshgurpude">
             <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="35"/>
         </a>
     </p>
+    -->
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 - 🔭 I’m currently working on **Full Stack Development**
@@ -21,8 +23,6 @@ Prompting
 ML understanding
 Django
 FastAPI
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sushantgawade/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/sushant_gd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sushantgawade259@gmail.com) 
 
 ---
 
