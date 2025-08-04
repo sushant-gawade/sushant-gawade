@@ -14,7 +14,7 @@
 ---
 
 - 🔭 I’m currently working on **Full-Stack Web Development Projects**
-- 🌱 Actively learning **React Native** and **Cloud Architecture (AWS/GCP)**
+- 🌱 Actively learning **MERN Stack** and **Cloud Architecture (AWS/GCP)**
 - 🤖 Exploring **AI/ML** through real-world applications and personal experiments
 - 💬 Ask me about **Web Development**, **REST APIs**, or **Frontend/Backend Integration**
 - 🌍 Open to **remote and on-site opportunities** in tech-driven environments
