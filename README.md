@@ -19,9 +19,7 @@ FastAPI
 
 ---
 
-# 🧰 Tech Stack Overview
-
-This document outlines the technologies and tools I use for full-stack development.
+# 🧰 Tech Stack 
 
 ---
 
@@ -60,9 +58,6 @@ This document outlines the technologies and tools I use for full-stack developme
   </a>
   <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/6412038?s=200&v=4" alt="React Router" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
@@ -106,9 +101,6 @@ This document outlines the technologies and tools I use for full-stack developme
 </p>
 
 ---
-
-
-
 
 <!-- GitHub Stats -->
 <p align="center">
