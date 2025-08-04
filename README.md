@@ -21,7 +21,6 @@
 - **Android App Development**
 - **Hidden Tool**
 - **AI/ML Development**
-- 
 ---
 
 ## 🧰 Tech Stack
