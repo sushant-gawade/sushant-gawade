@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **web development**
 - intrested in
-- **Blender 3D**
+- **WEBSite Design**
 - **Android Development**
 - **Hidden Tool for Trading Algo**
 - **AI/ML Developer**
