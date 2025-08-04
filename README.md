@@ -21,6 +21,8 @@ FastAPI
 
 # 🧰 Tech Stack 
 
+---
+
 ## 💻 Frontend
 
 - React.js  
@@ -44,6 +46,15 @@ FastAPI
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Icon_2023.svg" alt="Android Studio" width="50" height="50"/>
+  </a>
+  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/4/4c/Sublime_Text_3_logo.png" alt="Sublime Text" width="50" height="50"/>
+  </a>
+  <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Notepad%2B%2B_Logo.png" alt="Notepad++" width="50" height="50"/>
+  </a>
 
 ---
 
