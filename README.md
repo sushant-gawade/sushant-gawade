@@ -19,7 +19,7 @@ FastAPI
 
 ---
 
-## 🧰 Tech Stack 
+# 🧰 Tech Stack 
 
 ---
 
