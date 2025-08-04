@@ -106,6 +106,8 @@ FastAPI
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sushant-gawade&show_icons=true&theme=default" alt="GitHub Stats"/>
 </p>-->
+## 📫 Connect with Me
+[LinkedIn](https://linkedin.com/in/yourname) • [Portfolio](https://yourwebsite.com) • [Email](mailto:your@email.com)
 
 
 
