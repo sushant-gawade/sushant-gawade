@@ -1,8 +1,6 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
 
-  <h1 align="center">Hi 👋, I'm Sushant Gawade</h1>
-
-  <img src="https://komarev.com/ghpvc/?username=sushant-gawade" alt="Profile views"/>
+  <h1 align="center">Hi 👋, I'm Sushant Gawade</h1><img src="https://komarev.com/ghpvc/?username=sushant-gawade" alt="Profile views"/>
 
 </div>
 <!--
