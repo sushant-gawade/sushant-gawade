@@ -1,4 +1,17 @@
+<table align="center">
+<tr>
+<td>
+
 <h1 align="center">Hi 👋, I'm Sushant Gawade</h1>
+
+</td>
+<td>
+
+<img src="https://komarev.com/ghpvc/?username=sushant-gawade" alt="Profile views"/>
+
+</td>
+</tr>
+</table>
 <!--
 <p align="center">
 <a href="https://x.com/sushant_gd">
