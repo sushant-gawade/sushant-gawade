@@ -1,4 +1,17 @@
-Hi 👋, I'm Sushant Gawade      [ Profile views badge ]
+<table align="center">
+<tr>
+<td>
+
+<h1>Hi 👋, I'm Sushant Gawade</h1>
+
+</td>
+<td>
+
+<img src="https://komarev.com/ghpvc/?username=sushant-gawade" alt="Profile views"/>
+
+</td>
+</tr>
+</table>
 
 <!--
 <p align="center">
