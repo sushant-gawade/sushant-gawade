@@ -1,17 +1,9 @@
-<table align="center">
-<tr>
-<td>
+<h1 align="center">
+  Hi 👋, I'm Sushant Gawade
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://komarev.com/ghpvc/?username=sushant-gawade" width="120"/>
+</h1>
 
-<h1>Hi 👋, I'm Sushant Gawade</h1>
-
-</td>
-<td>
-
-<img src="https://komarev.com/ghpvc/?username=sushant-gawade" alt="Profile views"/>
-
-</td>
-</tr>
-</table>
 
 <!--
 <p align="center">
