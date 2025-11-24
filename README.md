@@ -1,8 +1,5 @@
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+Hi 👋, I'm Sushant Gawade      [ Profile views badge ]
 
-  <h1 align="center">Hi 👋, I'm Sushant Gawade</h1><img src="https://komarev.com/ghpvc/?username=sushant-gawade" alt="Profile views"/>
-
-</div>
 <!--
 <p align="center">
 <a href="https://x.com/sushant_gd">
